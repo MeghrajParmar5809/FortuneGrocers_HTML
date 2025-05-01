@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="account.html" />
+    <Content Include="addresses.html" />
     <Content Include="blog-style-1-3-grid.html" />
     <Content Include="cart.html" />
     <Content Include="checkout-1.html" />
@@ -604,6 +605,7 @@
     <Content Include="image\home-17\logo.png" />
     <Content Include="image\home-17\logo1-transparent-png.png" />
     <Content Include="image\home-17\logo2-transparent-png.png" />
+    <Content Include="image\home-17\newlogo.png-1.png" />
     <Content Include="image\home-17\pro-image\pro-1.1.jpg" />
     <Content Include="image\home-17\pro-image\pro-1.2.jpg" />
     <Content Include="image\home-17\pro-image\pro-2.1.jpg" />
